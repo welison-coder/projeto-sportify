@@ -40,7 +40,7 @@ h2{
 progress{
     height: 2px;
     width: 0%;
-    background-color: blueviolet;
+    background-color: rgb(113, 249, 64);
 }
 .ponto{
     width: 20px;
